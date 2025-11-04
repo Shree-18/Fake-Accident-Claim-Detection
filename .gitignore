@@ -1,0 +1,7 @@
+﻿# Ignore temporary and large files
+__pycache__/
+*.ipynb_checkpoints/
+models/
+.env
+*.csv
+*.json
