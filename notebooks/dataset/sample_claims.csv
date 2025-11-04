@@ -1,0 +1,5 @@
+Claim_ID,Date,Time,Location,Description,Image_URL,Weather_Reported,Actual_Weather,Is_Fraud
+C001,2024-05-03,14:30,Mumbai,Car hit divider due to heavy rain,img1.jpg,Rain,Rain,0
+C002,2024-06-12,20:10,Delhi,Bike slipped near signal during clear weather,img2.jpg,Clear,Clear,1
+C003,2024-07-01,09:00,Pune,Truck collision on foggy morning,img3.jpg,Fog,Clear,0
+C004,2024-08-22,18:45,Chennai,Car accident claimed to happen in storm,img4.jpg,Storm,Clear,1
